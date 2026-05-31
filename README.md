@@ -12,7 +12,8 @@
 	Temperature Sensor (DHT11/DHT22/TMP36)
 
 # Circuit Diagram:
-<img width="1280" height="718" alt="image" src="https://github.com/user-attachments/assets/f2af7f02-b3d7-47e6-99f6-69fa46ad8bcb" />
+<img width="1211" height="818" alt="image" src="https://github.com/user-attachments/assets/112d74dd-b647-47b7-bc93-bf52c227b4d5" />
+
 
 ---
 
@@ -150,7 +151,8 @@ void loop() {
 
 
 # Output
-<img width="861" height="144" alt="image" src="https://github.com/user-attachments/assets/c827e579-ae77-4ba8-af5c-bb18a536016a" />
+<img width="1919" height="976" alt="image" src="https://github.com/user-attachments/assets/8367436b-50ee-4807-bbd6-97d1b9645070" />
+
 
 # Result
 
